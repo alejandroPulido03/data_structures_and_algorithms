@@ -12,5 +12,6 @@ class ArrayList(ListInterface):
 
     def get(self, ind: int):
         return self._list[ind]
-    
 
+    def iterator(self):
+        return self._list

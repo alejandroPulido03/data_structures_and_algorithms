@@ -27,6 +27,8 @@ My implementations of various data structures and algorithms in Python, based on
 <br>    1.2.4 [Merge sort](#merge-sort)
 <br>    1.2.5 [Quick sort](#quick-sort)
 <br>    1.2.6 [Heap sort](#heap-sort)
+<br>    1.2.7 [Counting Sort](#counting-sort)
+<br>    1.2.8 [Radix Sort](#radix-sort)
 <br>    1.3. Searching algorithms
 <br>    1.3.1 [Sequential search](#sequential-search)
 <br>    1.3.2 [Binary search](#binary-search)

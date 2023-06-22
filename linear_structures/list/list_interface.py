@@ -14,6 +14,9 @@ class ListInterface:
     def get(self, ind: int):
         pass
 
+    def iterator(self):
+        pass
+
     def size(self):
         return self._size
 
